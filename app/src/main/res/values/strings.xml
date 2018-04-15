@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BipCut Remote</string>
+    <string name="start_confirm_clip">Start/Confirm Clip</string>
+    <string name="mark_error">Mark Error</string>
+</resources>
